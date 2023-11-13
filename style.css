@@ -1,9 +1,12 @@
 h1{
-   text-align: center;  
+   text-align: center;
+   color:cadetblue
+   font-size: 50px;
+   background-color: #b33435;  
   }
 
 p{
   text-align:center;
   color: rgb(34, 142, 204, 0.533)
-  FONT-SIZE: 30px;
+  fot-size: 30px;
 }
